@@ -13,6 +13,7 @@ class App extends Component {
           <div className="row mt-4">
             <div className="col-md-12">
               <h3>Sistema REACT STATELESS</h3>
+              {/* //teste thiago */}
               <p>Curso REACT - COTI Informática</p>
             </div>
           </div>
